@@ -40,9 +40,9 @@ while True:
         if not jumping:
             vy = jmp
             jumping = True
-        elif not doulbe_jump:
+        elif not double_jump:
             vy = double_jmp
-            dou
+            #dou
     
     vy += g
     py += vy
